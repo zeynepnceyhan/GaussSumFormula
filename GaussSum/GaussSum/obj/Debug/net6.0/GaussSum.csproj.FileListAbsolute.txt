@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\bin\Debug\net6.0\GaussSum.exe
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\bin\Debug\net6.0\GaussSum.deps.json
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\bin\Debug\net6.0\GaussSum.runtimeconfig.json
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\bin\Debug\net6.0\GaussSum.dll
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\bin\Debug\net6.0\GaussSum.pdb
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.dll
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\refint\GaussSum.dll
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.pdb
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\GaussSum.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\GaussSum\GaussSum\obj\Debug\net6.0\ref\GaussSum.dll
